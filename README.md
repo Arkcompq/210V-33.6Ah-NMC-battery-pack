@@ -1,0 +1,3 @@
+**Battery Pack Design** 
+
+The Formula Student EV is designed for optimal performance, efficiency, and safety in events like Acceleration and Endurance. It uses an Emrax 228 MV motor and a 50s8p Molicel P42A (21700) cell accumulator, chosen for its robustness and cost-effectiveness. MATLAB simulations optimized the configuration, achieving 49.39 kW output. The battery pack is divided into five 10s8p stacks housed in an aluminum container with active cooling. Orion BMS ensures safety by monitoring voltages and temperatures (70 thermistors, 50 taps) and managing shutdowns in case of faults. HV wiring uses 50mm² orange cables for current delivery and reliability.
